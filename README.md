@@ -1,4 +1,4 @@
-# Datalumni - coding tests
+﻿# Datalumni - coding tests
 ## Test Javascript
 ### Règles du jeu
 - Vous utiliserez [CodeSandbox](https://codesandbox.io/) pour produire votre projet
@@ -76,5 +76,5 @@ Pour livrer votre travail :
 
 #### Lien vers votre CodeSandbox
 ```
-URL : <Renseignez ici le lien vers votre projet CodeSandbox>
+URL : https://codesandbox.io/s/stupefied-lake-20frt
 ```
